@@ -143,7 +143,8 @@ Directory plan:
    git clone https://github.com/onatuysal/SUPPLY7.git
 
 
-
+Figma Wireframe Link 
+https://www.figma.com/proto/GDQQMTMh6NdzWLqE26aT6v/SUPPLY7?node-id=0-1&t=nRtWkmQJaG9hZtid-1
 
 
 
