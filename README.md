@@ -125,7 +125,7 @@ Directory plan:
 
 ### Software Development  
 - **Onat Uysal** — Android Development / Backend / Firebase  
-- **Kıvanç Taşkıran** — Android Development / UI / Frontend  
+- **Kıvanç Taşkıran** — Android Development / UI / Frontend 
 
 ### Visual Communication Design Team  
 - UI/UX Design  
