@@ -144,7 +144,6 @@ Directory plan:
 
 
 Figma Wireframe Link 
-https://www.figma.com/proto/GDQQMTMh6NdzWLqE26aT6v/SUPPLY7?node-id=0-1&t=nRtWkmQJaG9hZtid-1
-
+https://www.figma.com/design/GDQQMTMh6NdzWLqE26aT6v/SUPPLY7?node-id=44-28&t=XPLQN1EAJ9cV2ON0-0
 
 Add README to master branch
